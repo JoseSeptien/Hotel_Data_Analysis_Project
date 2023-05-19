@@ -19,3 +19,6 @@ After analyzing the trend line of car space usage in the Power BI report, I foun
 ## Technologies
 - SQL Server
 - Power BI
+
+## Preview
+![Hotel_Data_Analysis_Project](Images/Hotel_Data_Analysis_Project.png)
