@@ -1,4 +1,4 @@
-# Hotel Data Analysis
+# Hotel Data Analysis Project
 
 ## Objective
 Develop a database for analyzing and visualizing hotel booking data, with the ability to track key performance indicators (KPIs) and trends. Use the data to answer business questions such as revenue growth by year and the need to increase parking lot size based on customer trends in personal car usage.
